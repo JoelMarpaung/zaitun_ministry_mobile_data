@@ -1,0 +1,53 @@
+{
+  "alamat_radio": "Radio zaitun beralamat di jalan Lumban Dolok, Balige, Kabupaten Toba, Sumatera Utara, Indonesia",
+  "deskripsi": "On Air mulai dari pukul 05.00 pagi sampai dengan pukul 23.00 malam, dengan membawa lagu, khotbah, hingga talkshow rohani",
+  "latitude_map": "2.333027",
+  "longitude_map": "99.064262",
+  "social_media": [
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/user/ZaitunMinistry/",
+      "title": "Zaitun Youtube"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/zaitunministry/",
+      "title": "Zaitun Facebook"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitunministry/",
+      "title": "Zaitun Ministry"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitunyouth/",
+      "title": "Zaitun Ministry"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitunministry/",
+      "title": "Zaitun Youth"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitundancer/",
+      "title": "Zaitun Dancer"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitunkids/",
+      "title": "Zaitun Kids"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/rumahsinggah_zaitunministry/",
+      "title": "Rumah Singgah"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitunfm/",
+      "title": "Radio 105.8 FM"
+    }
+  ]
+}
