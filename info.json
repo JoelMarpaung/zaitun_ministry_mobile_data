@@ -8,42 +8,37 @@
     {
       "type": "youtube",
       "url": "https://www.youtube.com/user/ZaitunMinistry/",
-      "title": "Zaitun Youtube"
-    },
-    {
-      "type": "facebook",
-      "url": "https://www.facebook.com/zaitunministry/",
-      "title": "Zaitun Facebook"
-    },
-    {
-      "type": "instagram",
-      "url": "https://www.instagram.com/zaitunministry/",
-      "title": "Zaitun Instagram"
-    },
-    {
-      "type": "youtube",
-      "url": "https://www.youtube.com/channel/UCgF3Pden4TtZdf7bwsqq-pA",
-      "title": "Ps. Thamrin Youtube"
+      "title": "Zaitun Ministry"
     },
     {
       "type": "facebook",
       "url": "https://www.facebook.com/ps.thamrinsimanjuntak/",
-      "title": "Ps. Thamrin Facebook"
+      "title": "Page Ps. Thamrin Simanjuntak"
+    },
+    {
+      "type": "instagram",
+      "url": "https://www.instagram.com/zaitunministry/",
+      "title": "Zaitun Ministry"
+    },
+    {
+      "type": "youtube",
+      "url": "https://www.youtube.com/channel/UCgF3Pden4TtZdf7bwsqq-pA",
+      "title": "Official Ps. Thamrin Simanjuntak"
+    },
+    {
+      "type": "facebook",
+      "url": "https://www.facebook.com/zaitunministry/",
+      "title": "Zaitun Ministry"
     },
     {
       "type": "instagram",
       "url": "https://www.instagram.com/thamrin_simanjuntak/",
-      "title": "Ps. Thamrin Instagram"
+      "title": "Ps. Thamrin Simanjuntak"
     },
     {
       "type": "instagram",
       "url": "https://www.instagram.com/zaitunyouth/",
       "title": "Zaitun Youth"
-    },
-    {
-      "type": "instagram",
-      "url": "hhttps://www.instagram.com/youth_extraordinary/",
-      "title": "Youth Extraordinary"
     },
     {
       "type": "instagram",
@@ -53,12 +48,7 @@
     {
       "type": "instagram",
       "url": "https://www.instagram.com/zaitunkidsministry/",
-      "title": "Zaitun Ministry Kids"
-    },
-    {
-      "type": "instagram",
-      "url": "https://www.instagram.com/rumahsinggah_zaitunministry/",
-      "title": "Rumah Singgah Zaitun Ministry"
+      "title": "Zaitun Kids"
     }
   ]
 }

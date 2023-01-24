@@ -1,34 +1,34 @@
 {
   "senin": [
     {
-      "start_time": "05.00",
+      "start_time": "04.30",
       "end_time": "06.00",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN", "MASTA", "ESTER"]
+      "acara": "SAAT TEDUH",
+      "penyiar": ["GIDEON"]
     },
     {
       "start_time": "06.00",
-      "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
+      "end_time": "08.00",
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["GIDEON"]
     },
     {
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "PESONA PAGI",
-      "penyiar": ["ESTER"]
+      "penyiar": ["DIAN", "RIKA"]
     },
     {
       "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "end_time": "12.00",
+      "acara": "SIGN AND WONDER",
+      "penyiar": ["CANSON"]
     },
     {
       "start_time": "12.00",
       "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN LUNCH",
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "13.00",
@@ -37,442 +37,454 @@
       "penyiar": ["IWAN"]
     },
     {
-      "start_time": "14.30",
-      "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
-      "penyiar": ["LESTARI"]
+      "start_time": "14.00",
+      "end_time": "15.00",
+      "acara": "ZAITUN NEWS",
+      "penyiar": ["MARLINA"]
     },
     {
-      "start_time": "16.00",
+      "start_time": "15.00",
+      "end_time": "16.30",
+      "acara": "PASUKAN CILIK",
+      "penyiar": ["ESTER", "SONIA"]
+    },
+    {
+      "start_time": "16.30",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN HISTORY",
+      "penyiar": ["STEVEN"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.00",
+      "acara": "ZAITUN DINNER",
+      "penyiar": ["GIDEON"]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
       "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "penyiar": ["IWAN", "POLTAK", "GIDEON"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["GIDEON"]
     }
   ],
   "selasa": [
     {
-      "start_time": "05.00",
+      "start_time": "04.30",
       "end_time": "06.00",
       "acara": "SAAT TEDUH",
-      "penyiar": ["IWAN"]
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "06.00",
       "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "PESONA PAGI",
-      "penyiar": ["ESTER"]
+      "penyiar": ["POLTAK", "GIDEON"]
     },
     {
       "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "end_time": "12.00",
+      "acara": "YESUS JAWABAN",
+      "penyiar": ["LASMIAN"]
     },
     {
       "start_time": "12.00",
       "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN LUNCH",
+      "penyiar": ["LASMIAN"]
     },
     {
       "start_time": "13.00",
       "end_time": "14.00",
-      "acara": "DANGDUT ROHANI",
-      "penyiar": ["IWAN"]
+      "acara": "INDONESIA BERMAZMUR",
+      "penyiar": ["POLTAK", "GIDEON"]
     },
     {
-      "start_time": "14.30",
-      "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
-      "penyiar": ["LESTARI"]
+      "start_time": "14.00",
+      "end_time": "15.00",
+      "acara": "ZAITUN NEWS",
+      "penyiar": ["FANNY"]
     },
     {
-      "start_time": "16.00",
+      "start_time": "15.00",
+      "end_time": "16.30",
+      "acara": "ENGLISH DAY",
+      "penyiar": ["IBU SHRASTY"]
+    },
+    {
+      "start_time": "16.30",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "WANITA BIJAK",
+      "penyiar": ["IBU JOJO", "IBU TETEN"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.00",
+      "acara": "LIVE IBADAH PA PORSEA",
+      "penyiar": ["HERTINA"]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
       "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "penyiar": ["POLTAK"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["ESTER"]
     }
   ],
   "rabu": [
     {
-      "start_time": "05.00",
+      "start_time": "04.30",
       "end_time": "06.00",
       "acara": "SAAT TEDUH",
-      "penyiar": ["IWAN"]
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "06.00",
-      "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
+      "end_time": "08.00",
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "PESONA PAGI",
-      "penyiar": ["ESTER"]
+      "penyiar": ["HERTINA", "MARLINA"]
     },
     {
       "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "end_time": "12.00",
+      "acara": "SIGN AND WONDER",
+      "penyiar": ["STEVEN"]
     },
     {
       "start_time": "12.00",
       "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN LUNCH",
+      "penyiar": ["STEVEN"]
     },
     {
       "start_time": "13.00",
       "end_time": "14.00",
       "acara": "DANGDUT ROHANI",
-      "penyiar": ["IWAN"]
+      "penyiar": ["IWAN", "GIDEON"]
     },
     {
-      "start_time": "14.30",
-      "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
-      "penyiar": ["LESTARI"]
+      "start_time": "14.00",
+      "end_time": "15.00",
+      "acara": "ZAITUN NEWS",
+      "penyiar": ["RIKA"]
     },
     {
-      "start_time": "16.00",
+      "start_time": "15.00",
+      "end_time": "16.30",
+      "acara": "DEEPER WITH GOD",
+      "penyiar": ["LENA"]
+    },
+    {
+      "start_time": "16.30",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN HISTORY",
+      "penyiar": ["NATANAEL"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.00",
+      "acara": "LIVE IBADAH PA MEDAN",
+      "penyiar": ["FANNY"]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
       "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "penyiar": ["POLTAK", "PERJUANGAN"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["GIDEON"]
     }
   ],
   "kamis": [
     {
-      "start_time": "05.00",
+      "start_time": "04.30",
       "end_time": "06.00",
       "acara": "SAAT TEDUH",
-      "penyiar": ["IWAN"]
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "06.00",
-      "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
+      "end_time": "08.00",
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "PESONA PAGI",
-      "penyiar": ["ESTER"]
+      "penyiar": ["LASMIAN", "IBU JOJO"]
     },
     {
       "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "end_time": "12.00",
+      "acara": "YESUS JAWABAN",
+      "penyiar": ["LESTARI", "LASMIAN"]
     },
     {
       "start_time": "12.00",
       "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN LUNCH",
+      "penyiar": ["LESTARI"]
     },
     {
       "start_time": "13.00",
       "end_time": "14.00",
-      "acara": "DANGDUT ROHANI",
+      "acara": "INDONESIA BERMAZMUR",
       "penyiar": ["IWAN"]
     },
     {
-      "start_time": "14.30",
-      "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
-      "penyiar": ["LESTARI"]
+      "start_time": "14.00",
+      "end_time": "15.00",
+      "acara": "ZAITUN NEWS",
+      "penyiar": ["MARLINA"]
     },
     {
-      "start_time": "16.00",
+      "start_time": "15.00",
+      "end_time": "16.30",
+      "acara": "ENGLISH DAY",
+      "penyiar": ["HOTNA"]
+    },
+    {
+      "start_time": "16.30",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "DOA DEKLARASI",
+      "penyiar": ["IWAN"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.00",
+      "acara": "LIVE IBADAH PA BALIGE",
+      "penyiar": ["LESTARI", "RIBKA"]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
-      "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "acara": "FREE MUSIC",
+      "penyiar": ["LESTARI"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["GIDEON"]
     }
   ],
   "jumat": [
-    {
-      "start_time": "05.00",
+     {
+      "start_time": "04.30",
       "end_time": "06.00",
       "acara": "SAAT TEDUH",
-      "penyiar": ["IWAN"]
+      "penyiar": ["GIDEON"]
     },
     {
       "start_time": "06.00",
-      "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
+      "end_time": "08.00",
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["GIDEON"]
     },
     {
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "PESONA PAGI",
-      "penyiar": ["ESTER"]
+      "penyiar": ["IWAN", "IBU SEMBIRING"]
     },
     {
       "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "end_time": "12.00",
+      "acara": "SGIN AND WONDER",
+      "penyiar": ["STEVEN"]
     },
     {
       "start_time": "12.00",
       "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN LUNCH",
+      "penyiar": ["STEVEN"]
     },
     {
       "start_time": "13.00",
       "end_time": "14.00",
       "acara": "DANGDUT ROHANI",
-      "penyiar": ["IWAN"]
+      "penyiar": ["POLTAK"]
     },
     {
-      "start_time": "14.30",
+      "start_time": "14.00",
+      "end_time": "15.00",
+      "acara": "ZAITUN NEWS",
+      "penyiar": ["RIKA"]
+    },
+    {
+      "start_time": "15.00",
       "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
-      "penyiar": ["LESTARI"]
+      "acara": "PASUKAN CILIK",
+      "penyiar": ["SONIA", "LENA"]
     },
     {
       "start_time": "16.00",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN PARENTING",
+      "penyiar": ["LENA"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.00",
+      "acara": "XO (EXTRA ORDINARY)",
+      "penyiar": ["MARIA"]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
-      "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "acara": "ZAITUN WORSHIP",
+      "penyiar":["RISNA", "JULIANA"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["NATANAEL"]
     }
   ],
   "sabtu": [
-    {
-      "start_time": "05.00",
+     {
+      "start_time": "04.30",
       "end_time": "06.00",
       "acara": "SAAT TEDUH",
-      "penyiar": ["IWAN"]
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "06.00",
-      "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
+      "end_time": "08.00",
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["ESTER"]
     },
     {
       "start_time": "08.00",
       "end_time": "10.00",
-      "acara": "PESONA PAGI",
-      "penyiar": ["ESTER"]
+      "acara": "ZAITUN TOP 10",
+      "penyiar": ["DIAN", "FANNY"]
     },
     {
       "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "end_time": "12.00",
+      "acara": "CONGRATULATION DAY",
+      "penyiar": ["HOTNA", "RIKA"]
     },
     {
       "start_time": "12.00",
       "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "acara": "ZAITUN LUNCH",
+      "penyiar": ["MARLINA"]
     },
     {
       "start_time": "13.00",
-      "end_time": "14.00",
-      "acara": "DANGDUT ROHANI",
-      "penyiar": ["IWAN"]
-    },
-    {
-      "start_time": "14.30",
       "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
-      "penyiar": ["LESTARI"]
+      "acara": "LIVE IBADAH MEZBAH DUPA",
+      "penyiar": ["IWAN"]
     },
     {
       "start_time": "16.00",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "FREE MUSIC",
+      "penyiar": ["DIAN"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.30",
+      "acara": "LIVE IBADAH YOUTH",
+      "penyiar": ["ESTER"]
     },
     {
-      "start_time": "20.00",
+      "start_time": "20.30",
       "end_time": "22.00",
       "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "penyiar": ["IWAN", "GIDEON"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["GIDEON"]
     }
   ],
   "minggu": [
-    {
-      "start_time": "05.00",
+     {
+      "start_time": "04.30",
       "end_time": "06.00",
       "acara": "SAAT TEDUH",
-      "penyiar": ["IWAN"]
-    },
-    {
-      "start_time": "06.00",
-      "end_time": "07.15",
-      "acara": "ZAITUN BREAKFAST (live khotbah pagi Pak Gembala)",
-      "penyiar": ["IWAN"]
-    },
-    {
-      "start_time": "08.00",
-      "end_time": "10.00",
-      "acara": "PESONA PAGI",
       "penyiar": ["ESTER"]
     },
     {
-      "start_time": "10.00",
-      "end_time": "11.30",
-      "acara": "ZAITUN NEWS",
-      "penyiar": ["MASTA"]
+      "start_time": "06.00",
+      "end_time": "07.00",
+      "acara": "ZAITUN BREAKFAST",
+      "penyiar": ["ESTER"]
     },
     {
-      "start_time": "12.00",
-      "end_time": "13.00",
-      "acara": "ZAITUN LUNCH (live khotbah siang)",
-      "penyiar": ["MASTA"]
+      "start_time": "07.00",
+      "end_time": "08.00",
+      "acara": "LIVE IBADAH SEKOLAH MINGGU",
+      "penyiar": ["DIAN", "LENA"]
     },
     {
-      "start_time": "13.00",
+      "start_time": "08.00",
+      "end_time": "10.30",
+      "acara": "LIVE IBADAH RAYA PAGI MEDAN",
+      "penyiar": ["DIAN"]
+    },
+    {
+      "start_time": "11.00",
       "end_time": "14.00",
-      "acara": "DANGDUT ROHANI",
-      "penyiar": ["IWAN"]
-    },
-    {
-      "start_time": "14.30",
-      "end_time": "16.00",
-      "acara": "DIRUMAH AJA",
+      "acara": "LIVE IBADAH RAYA BALIGE",
       "penyiar": ["LESTARI"]
     },
     {
-      "start_time": "16.00",
+      "start_time": "14.00",
       "end_time": "18.00",
-      "acara": "SEKOLAH MINGGU CERIA",
-      "penyiar": ["MASTA"]
+      "acara": "LIVE IBADAH RAYA SIANG MEDAN",
+      "penyiar": ["ESTER", "DIAN"]
     },
     {
       "start_time": "18.00",
-      "end_time": "19.30",
-      "acara": "ZAITUN DINNER (live khotbah malam)",
-      "penyiar": ["MASTA"]
+      "end_time": "20.00",
+      "acara": "FREE MUSIC",
+      "penyiar": ["IWAN"]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
-      "acara": "BATAK BERMAZMUR",
-      "penyiar": ["IWAN"]
+      "acara": "TALK SHOW",
+      "penyiar": ["PAK SIRAIT", "PAK WASIR", "PAK NIGEL"]
     },
     {
       "start_time": "22.00",
       "end_time": "23.00",
       "acara": "ZAITUN BERDOA SYAFAAT",
-      "penyiar": ["RIKA"]
+      "penyiar": ["GIDEON"]
     }
   ]
 }
