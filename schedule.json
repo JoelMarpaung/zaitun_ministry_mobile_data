@@ -2,7 +2,7 @@
   "senin": [
     {
       "start_time": "06.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Breakfast",
       "penyiar": [""]
     },
@@ -52,7 +52,7 @@
   "selasa": [
     {
       "start_time": "06.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Breakfast",
       "penyiar": [""]
     },
@@ -96,7 +96,7 @@
   "rabu": [
     {
       "start_time": "06.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Breakfast",
       "penyiar": [""]
     },
@@ -132,7 +132,7 @@
     },
     {
       "start_time": "18.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "PA Medan",
       "penyiar": ["Hotna"]
     }
@@ -140,7 +140,7 @@
   "kamis": [
     {
       "start_time": "06.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Breakfast",
       "penyiar": [""]
     },
@@ -176,7 +176,7 @@
     },
     {
       "start_time": "18.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Live PA",
       "penyiar": ["Filemon"]
     }
@@ -234,13 +234,13 @@
   "sabtu": [
     {
       "start_time": "04.30",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Saat Teduh",
       "penyiar": ["Lena"]
     },
     {
       "start_time": "06.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Zaitun Breakfast",
       "penyiar": [""]
     },
@@ -264,7 +264,7 @@
     },
     {
       "start_time": "18.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Live Youth",
       "penyiar": ["Dian"]
     }
@@ -272,19 +272,19 @@
   "minggu": [
     {
       "start_time": "08.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Live Ibadah Medan Pagi",
       "penyiar": ["Dian"]
     },
     {
       "start_time": "11.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Live Ibadah Balige",
       "penyiar": ["Ester"]
     },
     {
       "start_time": "14.00",
-      "end_time": "",
+      "end_time": "Selesai",
       "acara": "Live Ibadah Medan Siang",
       "penyiar": ["Lena"]
     },
