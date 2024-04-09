@@ -95,8 +95,8 @@
     {
       "start_time": "18.00",
       "end_time": "19.00",
-      "acara": "PA Porsea",
-      "penyiar": ["Yesaya"]
+      "acara": "Live PA Porsea",
+      "penyiar": [""]
     }
   ],
   "rabu": [
@@ -145,8 +145,8 @@
     {
       "start_time": "18.00",
       "end_time": "Selesai",
-      "acara": "PA Medan",
-      "penyiar": ["Hotna"]
+      "acara": "Live PA Medan",
+      "penyiar": [""]
     }
   ],
   "kamis": [
@@ -189,8 +189,8 @@
     {
       "start_time": "18.00",
       "end_time": "Selesai",
-      "acara": "Live PA",
-      "penyiar": ["Filemon"]
+      "acara": "Live PA Balige",
+      "penyiar": [""]
     }
   ],
   "jumat": [
@@ -271,8 +271,8 @@
     {
       "start_time": "13.00",
       "end_time": "16.00",
-      "acara": "Live Dopu",
-      "penyiar": ["Yesaya"]
+      "acara": "Live Ibadah Dopu",
+      "penyiar": [""]
     },
     {
       "start_time": "18.00",
@@ -286,25 +286,25 @@
       "start_time": "08.00",
       "end_time": "Selesai",
       "acara": "Live Ibadah Medan Pagi",
-      "penyiar": ["Dian"]
+      "penyiar": [""]
     },
     {
       "start_time": "11.00",
       "end_time": "Selesai",
       "acara": "Live Ibadah Balige",
-      "penyiar": ["Ester"]
+      "penyiar": [""]
     },
     {
       "start_time": "14.00",
       "end_time": "Selesai",
       "acara": "Live Ibadah Medan Siang",
-      "penyiar": ["Lena"]
+      "penyiar": [""]
     },
     {
       "start_time": "20.00",
       "end_time": "22.00",
       "acara": "Talk Show",
-      "penyiar": []
+      "penyiar": ["Kaum Bapak"]
     }
   ]
 }
