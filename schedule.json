@@ -16,7 +16,7 @@
       "start_time": "10.30",
       "end_time": "12.00",
       "acara": "Sign & Wonder",
-      "penyiar": ["Bang Canson", "Yesaya"]
+      "penyiar": ["Canson / Steven"]
     },
     {
       "start_time": "12.00",
@@ -28,7 +28,7 @@
       "start_time": "14.00",
       "end_time": "15.00",
       "acara": "Zaitun news",
-      "penyiar": ["Hotna"]
+      "penyiar": ["Desi"]
     },
     {
       "start_time": "16.30",
@@ -46,10 +46,16 @@
       "start_time": "19.30",
       "end_time": "21.00",
       "acara": "XO",
-      "penyiar": ["Maria"]
+      "penyiar": ["Maria", "Juli"]
     }
   ],
   "selasa": [
+    {
+      "start_time": "04.30",
+      "end_time": "06.00",
+      "acara": "Mezbah Pagi",
+      "penyiar": [""]
+    },
     {
       "start_time": "06.00",
       "end_time": "Selesai",
@@ -66,7 +72,7 @@
       "start_time": "10.30",
       "end_time": "11.30",
       "acara": "Yesus jawaban",
-      "penyiar": ["Filemon"]
+      "penyiar": ["Filemon", "Lena"]
     },
     {
       "start_time": "12.00",
@@ -84,7 +90,7 @@
       "start_time": "15.00",
       "end_time": "16.30",
       "acara": "Gospel for Nation",
-      "penyiar": ["Bu Sharsti", "Hotna"]
+      "penyiar": ["Ibu Sharsti / Hotna"]
     },
     {
       "start_time": "18.00",
@@ -94,6 +100,12 @@
     }
   ],
   "rabu": [
+    {
+      "start_time": "04.30",
+      "end_time": "06.00",
+      "acara": "Mezbah Pagi",
+      "penyiar": [""]
+    },
     {
       "start_time": "06.00",
       "end_time": "Selesai",
@@ -110,7 +122,7 @@
       "start_time": "10.30",
       "end_time": "12.00",
       "acara": "Sign and wonder",
-      "penyiar": ["Steven", "Yesaya"]
+      "penyiar": ["Canson / Steven"]
     },
     {
       "start_time": "12.00",
@@ -139,6 +151,12 @@
   ],
   "kamis": [
     {
+      "start_time": "04.30",
+      "end_time": "06.00",
+      "acara": "Mezbah Pagi",
+      "penyiar": [""]
+    },
+    {
       "start_time": "06.00",
       "end_time": "Selesai",
       "acara": "Breakfast",
@@ -154,7 +172,7 @@
       "start_time": "10.00",
       "end_time": "11.30",
       "acara": "Sign & Wonder",
-      "penyiar": ["Canson", "Yesaya"]
+      "penyiar": ["Canson / Steven"]
     },
     {
       "start_time": "12.00",
@@ -167,12 +185,6 @@
       "end_time": "15.00",
       "acara": "Zaitun English",
       "penyiar": ["Hotna"]
-    },
-    {
-      "start_time": "15.00",
-      "end_time": "16.30",
-      "acara": "Free music",
-      "penyiar": ["Desi"]
     },
     {
       "start_time": "18.00",
@@ -198,7 +210,7 @@
       "start_time": "10.30",
       "end_time": "12.00",
       "acara": "Sign & Wonder",
-      "penyiar": ["Steven", "Yesaya"]
+      "penyiar": ["Canson / Steven"]
     },
     {
       "start_time": "12.00",
@@ -210,7 +222,7 @@
       "start_time": "14.00",
       "end_time": "15.00",
       "acara": "Gospel for Nation",
-      "penyiar": ["Bu Sharsti", "Hotna"]
+      "penyiar": ["Ibu Sharsti / Hotna"]
     },
     {
       "start_time": "15.00",
