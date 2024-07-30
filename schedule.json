@@ -10,7 +10,7 @@
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "Pesona pagi",
-      "penyiar": ["Lasmian"]
+      "penyiar": ["Lena"]
     },
     {
       "start_time": "10.30",
@@ -29,12 +29,6 @@
       "end_time": "15.00",
       "acara": "Zaitun news",
       "penyiar": ["Desi"]
-    },
-    {
-      "start_time": "16.30",
-      "end_time": "17.30",
-      "acara": "Zaitun history",
-      "penyiar": ["Filemon"]
     },
     {
       "start_time": "18.00",
@@ -72,7 +66,7 @@
       "start_time": "10.30",
       "end_time": "11.30",
       "acara": "Yesus jawaban",
-      "penyiar": ["Filemon", "Lena"]
+      "penyiar": ["Filemon", "Maria"]
     },
     {
       "start_time": "12.00",
@@ -89,7 +83,7 @@
     {
       "start_time": "15.00",
       "end_time": "16.30",
-      "acara": "Gospel for Nation",
+      "acara": "Gospel for Nations",
       "penyiar": ["Ibu Sharsti / Hotna"]
     },
     {
@@ -116,7 +110,7 @@
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "Pesona pagi",
-      "penyiar": ["Lasmian"]
+      "penyiar": ["Desi"]
     },
     {
       "start_time": "10.30",
@@ -135,12 +129,6 @@
       "end_time": "15.00",
       "acara": "Zaitun news",
       "penyiar": ["Desi"]
-    },
-    {
-      "start_time": "16.30",
-      "end_time": "17.30",
-      "acara": "Zaitun History",
-      "penyiar": ["Filemon"]
     },
     {
       "start_time": "18.00",
@@ -204,7 +192,7 @@
       "start_time": "08.00",
       "end_time": "10.00",
       "acara": "Pesona Pagi",
-      "penyiar": ["Lena"]
+      "penyiar": ["Hotna"]
     },
     {
       "start_time": "10.30",
@@ -221,7 +209,7 @@
     {
       "start_time": "14.00",
       "end_time": "15.00",
-      "acara": "Gospel for Nation",
+      "acara": "Gospel for Nations",
       "penyiar": ["Ibu Sharsti / Hotna"]
     },
     {
